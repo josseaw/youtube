@@ -1,0 +1,35 @@
+div {
+    margin: 1em;
+}
+
+.ukuran-asli {
+    height: 150px;
+    width: 200px;
+    background: #e4df44;
+}
+
+.dengan-border-padding {
+    height: 150px;
+    width: 200px;
+    background: #e4df44;
+    border: 10px solid #4770bb;
+    padding: 10px;
+}
+
+.borderbox {
+    box-sizing: border-box;
+    height: 150px;
+    width: 200px;
+    background: #e4df44;
+    border: 10px solid #4770bb;
+    padding: 10px;
+}
+
+.paddingbox {
+    box-sizing: padding-box;
+    height: 150px;
+    width: 200px;
+    background: #e4df44;
+    border: 10px solid #4770bb;
+    padding: 10px;
+}
